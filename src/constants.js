@@ -1,1 +1,1 @@
-export const DB_NAME = "ytlikeapp"
+export const DB_NAME = "YTlikeapp"
